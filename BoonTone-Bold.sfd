@@ -881,7 +881,7 @@ SplineSet
  -450 710 l 5
  -450 810 l 5
  -350 810 l 1
- -350 873 -350 930 -350 930 c 1
+ -350 930 l 1
  -240 930 l 1
 EndSplineSet
 Substitution2: "Thai Tone for Po Pla" uni0E49
